@@ -227,7 +227,7 @@ float GCD_finder(float a, float b) {
         return GCD_finder(a, b - a);
     }*/
     /*
-     * This part of code, is under developing, please check a newer version of the
+     * This part of code, is not working yet, please check a newer version of the
      * program to use this function
      * current version: alpha 1.0
      *
