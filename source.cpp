@@ -193,42 +193,6 @@ int main() {
 
 
 
-    /*
-        if ((int)problem1.x == problem1.x) {
-            cout << problem1.x << " <-- X" << endl;
-        }
-        else if ((int)problem1.x != problem1.x) {
-            cout << problem1.Dx << " / " << problem1.D << endl;
-        }*/
-
-
-
-        //cout << "MCD: " << GCD_finder(problem1.Dx, problem1.D) << endl;
-    /*
-        string input1__;
-        cout << "Premi enter per uscire dal programma" << endl;
-        cin >> input1__;*/
     return 0;
 
 }
-/*
-float GCD_finder(float a, float b) {
-    if (a == 0) {
-        return a;
-    }
-    if (b == 0) {
-        return b;
-    }
-    if (a == b) {
-        return a;
-    }
-    if (a > b) {
-        return GCD_finder(a - b, b);    //recursive function call
-        return GCD_finder(a, b - a);
-    }*/
-    /*
-     * This part of code, is not working yet, please check a newer version of the
-     * program to use this function
-     * current version: alpha 1.0
-     *
-     * */
